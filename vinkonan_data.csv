@@ -1,0 +1,201 @@
+wine_id,name,grapes,country,aroma1,aroma2,sweetness,strength,alcohol,rating,priceISK
+1,	Tommolo Montepulciano d'Abruzzo Organic,	1,	1,	1,	2,	1,	2,	13.0,	3.4,	2720
+2,	Piccini Memoro Rosso,	2,	1,	3,	1,	2,	3,	14.0,	3.8,	2399
+3,	Massolino Barolo,	3,	1,	2,	6,	1,	2,	14.5,	4.1,	6899
+4,	Villa Valentina Sangiovese,	4,	1,	3,	2,	2,	2,	13.5,	3.7,	2248
+5,	Cabane Langhe Rosso,	5,	1,	3,	2,	1,	3,	14.0,	3.9,	2028
+6,	Podere Brizio Rosso di Montalcino,	4,	1,	2,	3,	1,	2,	13.5,	3.8,	3499
+7,	Tommasi Valpolicella Ripasso Classico,	6,	1,	3,	2,	1,	2,	13.5,	4.0,	7391
+8,	Tenuta Moraia Perpiero,	5,	1,	3,	1,	1,	2,	14.0,	4.6,	11999
+9,	Banfi Brunello Poggio Alle Mura Brunello Riserva,	4,	1,	3,	1,	1,	3,	14.0,	4.2,	9806
+10,	Masso Antico Single Vineyard Primitivo,	2,	1,	1,	3,	2,	3,	14.0,	4.1,	2590
+11,	Zenato Alanera,	6,	1,	3,	2,	1,	2,	13.5,	3.9,	2590
+12,	Ruffino Riserva Ducale Chianti Classico,	4,	1,	2,	3,	1,	3,	14.0,	3.8,	3999
+13,	Il Palagio La Duchessa Riserva,	7,	1,	6,	2,	1,	3,	14.0,	4.1,	6887
+14,	Torri d'Oro Primitivo di Manduria,	2,	1,	3,	1,	1,	2,	14.5,	4.1,	3589
+15,	Canti Cabernet,	5,	1,	1,	4,	1,	1,	11.5,	3.3,	1448
+16,	Tavros Primitivo di Manduria,	2,	1,	3,	1,	2,	3,	14.5,	4.2,	4102
+17,	Villa Puccini Chianti Superiore,	4,	1,	3,	2,	1,	2,	12.5,	3.3,	2490
+18,	Poggio Nero Brunello di Montalcino,	4,	1,	3,	2,	1,	3,	14.5,	3.9,	5889
+19,	Bolla Amarone Rhetico,	8,	1,	3,	6,	1,	3,	16.0,	4.0,	6790
+20,	Isole e Olena Cepparello,	4,	1,	3,	2,	1,	3,	15.0,	4.3,	11590
+21,	Banfi La Lus Albarossa,	9,	1,	1,	3,	1,	3,	14.0,	4.0,	3990
+22,	Villa da Vinci San Zio,	4,	1,	3,	2,	1,	2,	13.0,	4.0,	4599
+23,	Doppio Passo Primitivo BIO,	2,	1,	3,	2,	2,	2,	13.0,	3.9,	2490
+24,	Colognole Chianti Rufina,	4,	1,	2,	6,	1,	2,	14.0,	3.7,	3535
+25,	Gambino Tifeo Rosso,	10,	1,	6,	2,	3,	2,	13.5,	4.1,	3999
+26,	Villa Valentina Il Classico,	11,	1,	3,	1,	3,	3,	14.0,	3.8,	2298
+27,	Riunite Lambrusco Emilia,	12,	1,	2,	1,	3,	1,	8.0,	3.8,	1490
+28,	Zonin Chianti,	4,	1,	2,	3,	1,	1,	12.5,	3.4,	2580
+29,	Vecchia Modena Premium,	12,	1,	2,	10,	1,	1,	11.0,	3.9,	3275
+30,	La Cantina Delle 7 Donne Barbera,	13,	1,	3,	2,	1,	1,	12.5,	3.7,	2390
+31,	Cadis Rosso,	14,	1,	1,	2,	1,	1,	11.0,	3.2,	1598
+32,	12 e mezzo Primitivo del Salento,	2,	1,	3,	1,	2,	1,	12.5,	4.0,	2990
+33,	Ceci to you Lambrusco Rosso,	12,	1,	1,	2,	2,	1,	11.0,	3.9,	4985
+34,	Brunello Valpolicella Ripasso Classico Superiore,	8,	1,	3,	2,	1,	2,	14.0,	4.0,	3150
+35,	Yoga Syrah,	15,	1,	3,	1,	2,	3,	14.0,	3.7,	2933
+36,	Poggio Argentiera Cabernet Franc,	16,	1,	3,	1,	1,	3,	15.0,	4.1,	5449
+37,	Banfi Brunello di Montalcino,	4,	1,	3,	6,	1,	3,	14.5,	4.2,	7690
+38,	Castello di Querceto Riserva Chianti Classico, 	4,	1,	3,	6,	1,	2,	13.5,	3.8,	4259
+39,	Maggio Rosso,	9,	1,	3,	2,	2,	2,	13.5,	3.6,	2098
+40,	Tenimenti Montagnana Chianti,	4,	1,	2,	3,	1,	2,	12.5,	3.4,	2499
+41,	Montalto Organic Nero d'Avola,	17,	1,	2,	8,	1,	2,	13.5,	3.4,	2299
+42,	Nativ Rue Dell'Inchiostro,	18,	1,	1,	6,	1,	3,	13.5,	3.8,	3222
+43,	Villa al Cortile Brunello di Montalcino,	4,	1,	3,	4,	1,	3,	14.0,	4.0,	6669
+44,	Arcena Arcanum,	16,	1,	3,	1,	1,	3,	14.5,	4.4,	13939
+45,	Patroco Passo del Bricco,	3,	1,	2,	3,	2,	2,	13.0,	3.9,	2999
+46,	Antinori Peppoli Chianti Classico,	4,	1,	2,	3,	1,	2,	13.5,	3.8,	3699
+47,	Antinori Badia a Passignano Chianto Classico,	4,	1,	3,	6,	1,	3,	15.0,	4.3,	7298
+48,	Masi Costasera Amarone,	8,	1,	3,	1,	1,	3,	15.0,	4.3,	8598
+49,	Pizzolato Pinot Nero,	19,	1,	2,	12,	1,	1,	12.5,	3.5,	2599
+50,	Scuri Pinot Nero,	19,	1,	2,	3,	1,	1,	12.5,	3.7,	2899
+51,	Adobe Reserva Cabernet Sauvignon,	5,	2,	3,	1,	1,	2,	13.5,	3.4,	2399
+52,	Montes Limited Selection Carmenere,	5,	2,	3,	1,	1,	3,	14.5,	3.7,	2599
+53,	San Pedro Cabo de Hornos,	5,	2,	1,	3,	1,	3,	14.5,	4.5,	9099
+54,	Grey Single Block Merlot,	11,	2,	3,	2,	1,	2,	13.5,	3.8,	3929
+55,	Tagua Cabernet Sauvignon,	5,	2,	1,	2,	1,	2,	13.0,	3.5,	2571
+56,	Montgras Day One Merlot,	11,	2,	3,	1,	1,	2,	13.5,	3.7,	2699
+57,	Cermenere Organico Reserva Organic,	20,	2,	1,	3,	1,	3,	14.0,	3.5,	2990
+58,	Marques de Casa Concha Merlot,	11,	2,	1,	3,	1,	3,	14.0,	3.9,	3499
+59,	Grey Pinot Noir Single Block,	19,	2,	2,	3,	1,	2,	13.5,	3.8,	3929
+60,	Taguea Gran Reserva Carmenere,	20,	2,	3,	2,	1,	3,	14.0,	4.0,	3347
+61,	Gato Negro Pinot Noir,	19,	2,	2,	1,	1,	2,	13.0,	3.2,	1899
+62,	Cono Sur Pinot Noir Reserva Especial,	19,	2,	2,	3,	1,	2,	14.0,	3.5,	3390
+63,	Adobe Reserva Cabernet Sauvignon,	5,	2,	3,	1,	1,	2,	13.5,	3.4,	2399
+64,	Adobe Reserva Carmenere,	20,	2,	3,	1,	1,	2,	13.5,	3.6,	2399
+65,	Adobe Reserva Merlot,	11,	2,	3,	1,	1,	2,	13.5,	3.5,	2399
+66,	Trivento Golden Reserve Malbec,	21,	3,	3,	1,	1,	3,	14.0,	3.9,	3498
+67,	Big Game,	21,	3,	1,	3,	1,	3,	14.0,	4.0,	2999
+68,	Achaval Ferrer Cabernet Sauvignon,	5,	3,	1,	3,	1,	2,	14.5,	3.9,	4444
+69,	El Enemigo Malbec,	21,	3,	3,	1,	1,	2,	13.5,	4.3,	5187
+70,	Vinyes Ocults Gran Malbec,	21,	3,	3,	1,	1,	3,	14.1,	4.2,	5599
+71,	French Dog Merlot,	11,	4,	1,	5,	2,	2,	13.0,	3.8,	2290
+72,	Chateau Goumin Bordeaux,	5,	4,	1,	6,	1,	2,	12.5,	3.4,	2899
+73,	Jean Loron Chateauneuf du Pape,	22,	4,	6,	1,	1,	3,	14.5,	4.1,	6745
+74,	Chateau Timberlay Cuvee Marie Paule Prestige,	5,	4,	3,	1,	1,	3,	14.5,	3.7,	4799
+75,	Chateau Fleur Dallon Cuvee Arnaut Magnum,	21,	4,	2,	6,	1,	3,	14.0,	4.1,	5499
+76,	Olivier & Lafont Lirac,	22,	4,	1,	3,	1,	3,	15.0,	3.5,	3299
+77,	Chateau Cotes de Rol Saint-Emilion Grand Cru,	11,	4,	3,	6,	1,	2,	12.5,	4.0,	6290
+78,	Les Tours des Verdots Cotes de Bergerac Rouge,	11,	4,	3,	1,	1,	3,	14.5,	4.9,	3999
+79,	La Chaize Morgon,	23,	4,	2,	3,	1,	2,	13.0,	3.9,	3929
+80,	Chateau l'Hospitalet La Reserve La Clape,	22,	4,	3,	1,	1,	3,	15.0,	4.0,	3999
+81,	Brio de Cantenac Brown Margaux,	5,	4,	3,	1,	1,	2,	13.5,	4.0,	6799
+82,	Joseph Drouhin Gevrey-Chambertin Premiere Cru,	19,	4,	2,	1,	1,	2,	13.5,	4.4,	10790
+83,	Mouton Cadet Bordeaux Rouge,	11,	4,	1,	3,	1,	2,	13.5,	3.5,	2790
+84,	Chateau Segur de Cabanac Saint-Estephe,	5,	4,	3,	1,	1,	2,	13.0,	4.0,	5471
+85,	Moulin de la Lagune Haut-Medoc,	24,	4,	3,	1,	1,	3,	14.0,	4.0,	6399
+86,	Chateau Camplazens La Garrigue La Clape,	22,	4,	1,	3,	2,	2,	13.5,	3.9,	2986
+87,	Francois Martenot  Bourgogne Pinot Noir,	19,	4,	2,	3,	1,	2,	12.5,	3.3,	3499
+88,	Domaine Lafage Narassa,	22,	4,	1,	3,	1,	3,	15.0,	4.1,	3489
+89,	Gabriel Meffre Crozes Hermitage Saint Pierre,	15,	4,	3,	1,	1,	3,	14.0,	3.6,	5190
+90,	E.Guigal Chateau d'Ampuis Cote Rotie,	15,	4,	3,	1,	1,	3,	14.0,	4.3,	17999
+91,	Michel Lynch Medoc Reserve,	5,	4,	3,	1,	1,	2,	13.5,	3.6,	3399
+92,	Chateau Corconnac Haut-Medoc,	5,	4,	1,	3,	1,	2,	13.5,	3.6,	3498
+93,	M. Chapoutier Belleruche Cotes du Rhone,	22,	4,	2,	1,	1,	3,	14.5,	3.7,	2999
+94,	Jean Loron Bourgogne Pinot Noir,	19,	4,	2,	3,	1,	2,	13.5,	3.5,	4199
+95,	Louis Latour Bourgogne Cuvee Latour,	19,	4,	2,	6,	1,	2,	13.0,	3.6,	4199
+96,	Chateau du Domaine de l'Eglise,	16,	4,	3,	1,	1,	2,	14.0,	4.2,	9315
+97,	Chateau Lynch Bages Pauillac,	5,	4,	3,	6,	1,	3,	13.5,	4.4,	24567
+98,	Chateau d'Agassac Haut-Medoc,	11,	4,	3,	1,	1,	3,	13.0,	3.8,	5999
+99,	E.Guigal Cotes du Rhone,	15,	4,	1,	3,	1,	3,	15.0,	3.7,	3099
+100,	Albert Bichot Secret de Famille Pinot Noir Bourgogne,	19,	4,	2,	3,	1,	2,	13.0,	3.7,	4379
+101,	Gerard Bertrand Reserve Speciale Cabernet Sauvignon,	5,	4,	1,	3,	1,	3,	13.5,	3.6,	2999
+102,	Pour le Vin Cerise Sul le Gateau Cabernet Sauvignon,	5,	4,	3,	2,	1,	2,	13.5,	3.5,	2299
+103,	Chateau Haut Pougnan Bordeaux,	11,	4,	3,	6,	1,	2,	13.0,	3.5,	2990
+104,	Chateau Philippe Le Hardi Pinot Noir Vielles Vignes,	19,	4,	2,	6,	1,	2,	13.5,	3.8,	4490
+105,	Chatearu de Barbe Blanche Lussac Saint Emilion,	11,	4,	3,	1,	1,	2,	13.0,	4.1,	3999
+106,	Chanson Beaune Premier Cru Bastion Rouge,	19,	4,	2,	6,	1,	2,	13.0,	4.0,	6999
+107,	Chateau Haut Boutisse Saint Emilion Grand Cru,	11,	4,	1,	3,	1,	2,	13.5,	3.9,	5335
+108,	Cellire des Princes Chateaneuf du Pape,	22,	4,	2,	1,	1,	3,	16.0,	4.0,	4990
+109,	Chateau Tour de Capet Saint Emilion Grand Cru,	11,	4,	3,	1,	1,	2,	12.5,	3.9,	4199
+110,	Chateau l'Oiseau Vieilles Vignes Bordeaux Superieur,	16,	4,	6,	1,	1,	2,	14.0,	3.5,	2998
+111,	Ausas Interpretacion,	25,	5,	3,	1,	1,	3,	15.0,	4.4,	7079
+112,	Faustino I Gran Reserva In the Name of Wine,	25,	5,	2,	3,	1,	3,	13.5,	4.0,	4799
+113,	Dominio Fournier Reserva,	25,	5,	3,	2,	1,	3,	14.5,	4.3,	4690
+114,	Muga Reserva Magnum,	26,	5,	3,	1,	1,	2,	14.0,	4.0,	8999
+115,	Pata Negra Roble Tempranillo,	25,	5,	3,	1,	1,	3,	14.5,	3.7,	2398
+116,	Castillo de Olite Crianza,	25,	5,	3,	6,	1,	2,	13.5,	3.8,	2567
+117,	Baron de Ley Finca Monastero,	25,	5,	3,	1,	1,	3,	14.5,	4.1,	4299
+118,	Emilio Moro,	25,	5,	3,	1,	1,	3,	14.5,	4.1,	3999
+119,	Ramon Roqueta Las Barracas Reserva,	25,	5,	3,	1,	1,	2,	13.5,	3.7,	2499
+120,	Valdecuriel Reserva,	25,	5,	3,	1,	1,	3,	15.0,	4.2,	5399
+121,	Bodegas Penafiel Cuenta Ovejas,	27,	5,	1,	3,	1,	3,	14.5,	4.1,	3950
+122,	Baron de Ley Gran Reserva,	25,	5,	3,	6,	1,	2,	13.5,	4.1,	4199
+123,	Muga Reserva,	25,	5,	3,	1,	1,	3,	14.5,	4.0,	4499
+124,	LAN Reserva,	25,	5,	3,	1,	1,	2,	13.5,	3.9,	3290
+125,	Bodegas La Horra Corimbo,	28,	5,	3,	1,	1,	3,	14.5,	4.0,	4799
+126,	Marques de Riscal Gran Reserva,	25,	5,	3,	1,	1,	3,	14.0,	4.2,	7590
+127,	Familia Torres Mas La Prana, 	5,	5,	3,	1,	1,	3,	14.5,	4.2,	9990
+128,	Succes la Cuca de Llum,	29,	5,	2,	6,	1,	1,	12.0,	3.7,	2999
+129,	Don Simon Seleccion Tempranillo,	25,	5,	2,	3,	1,	1,	12.0,	3.0,	1659
+130,	Condado de Haza Ribera del Duero Reserva,	25,	5,	3,	1,	1,	3,	14.0,	4.0,	5444
+131,	Barahonda Summum Monastrell,	30,	5,	3,	1,	1,	3,	15.0,	4.2,	4499
+132,	Familia Torres Gran Sangre de Toro Reserva,	25,	5,	3,	1,	1,	3,	14.0,	3.7,	3090
+133,	Casa Rojo Alexander vs the Ham Factory Reserva,	5,	5,	3,	1,	1,	3,	15.0,	4.1,	6599
+134,	Coto Mayor Crianza,	25,	5,	3,	2,	1,	3,	13.5,	3.6,	2499
+135,	Altanza Rioja Reserva,	25,	5,	3,	1,	1,	2,	14.0,	3.9,	3399
+136,	Vina Ardanza Reserva,	25,	5,	3,	6,	1,	3,	14.5,	4.3,	2999
+137,	Cune Reserva,	25,	5,	3,	1,	1,	2,	14.0,	3.8,	3199
+138,	El Enhebro Tinto,	26,	5,	3,	6,	1,	3,	14.0,	3.6,	2190
+139,	Marques de Caceres Gran Reserva,	25,	5,	3,	1,	1,	3,	14.0,	4.0,	4490
+140,	Toro Bravo Tempranillo Merlot,	11,	5,	2,	3,	1,	2,	13.0,	3.6,	1848
+141,	Vina Pedrosa Cepa Gavilan Crianza Ribera del Duero,	25,	5,	3,	1,	1,	3,	14.5,	3.8,	3333
+142,	Vina Arana Gran Reserva,	25,	5,	3,	6,	1,	3,	14.5,	4.3,	5999
+143,	Castillo Perelada Monastress  Syrah Finca Espolla,	30,	5,	3,	1,	1,	3,	15.0,	4.1,	5555
+144,	El Vincolo Crianza,	25,	5,	3,	1,	1,	3,	15.0,	3.9,	3123
+145,	Bordegas Valduero Ribera del Duero Una Cepa I,	25,	5,	3,	1,	1,	3,	14.0,	4.3,	5555
+146,	Familia Torres Purgatori Costers del Segre,	26,	5,	3,	1,	1,	3,	14.5,	4.2,	5790
+147,	Siglo Tempranillo,	25,	5,	3,	2,	1,	2,	13.5,	3.7,	2672
+148,	Vina Albina Reserva,	31,	5,	3,	6,	1,	2,	13.5,	3.6,	2348
+149,	Bodegas Olarra Cerro Anon Reserva,	31,	5,	3,	1,	1,	3,	14.0,	4.0,	2999
+150,	Vega Sicilia Valbuena 5,	25,	5,	3,	1,	1,	3,	14.5,	4.6,	18777
+151,	Calera Pinot Noir,	19,	6,	2,	3,	1,	2,	14.4,	3.9,	5677
+152,	Trinite Estate Acaibo,	5,	6,	1,	6,	1,	3,	14.0,	4.1,	16989
+153,	Robert Mondavi Cabernet Sauvignon,	5,	6,	3,	1,	1,	3,	14.5,	3.9,	8699
+154,	Apothic Cab,	5,	6,	3,	1,	2,	3,	13.5,	3.7,	2699
+155,	RIB Ticker Shiraz,	15,	6,	3,	2,	1,	2,	13.0,	4.0,	2299
+156,	Chateau Ste Michelle Merlot,	11,	6,	3,	1,	1,	2,	13.5,	3.8,	3790
+157,	Wente Southern Hills Cabernet Sauvignon,	5,	6,	1,	3,	1,	2,	13.5,	3.9,	3923
+158,	Robert Mondavi Oakville Cabernet Sauvignon,	5,	6,	3,	1,	1,	3,	14.5,	4.2,	11999
+159,	Hess Select Pinot Noir,	19,	6,	2,	3,	1,	3,	14.5,	3.7,	3799
+160,	La Crema Willamette Valley Pinot Noir,	19,	6,	2,	3,	1,	3,	14.5,	4.0,	5799
+161,	Syrocco Syrah,	15,	7,	1,	3,	1,	2,	13.5,	3.8,	4650
+162,	Casa Santos Lima Red Blend,	32,	8,	2,	3,	1,	2,	13.0,	3.7,	1898
+163,	Monte da Cacada Tinto,	15,	8,	1,	3,	1,	3,	14.5,	3.9,	2548
+164,	Flor de Crasto Tinto,	33,	8,	1,	3,	1,	3,	14.0,	3.7,	2799
+165,	Crasto Superior Syrah,	15,	8,	3,	4,	1,	3,	14.5,	4.3,	4299
+166,	Quinta do Caleiro Reserva Tinto,	33,	8,	3,	6,	1,	2,	13.5,	3.5,	3144
+167,	Tesauro Da Se Private Selection Tinto,	34,	8,	1,	3,	1,	3,	13.5,	3.9,	3231
+168,	Bacalhoa Quinta dos Quatro Ventos Reserva,	33,	8,	3,	1,	1,	3,	14.0,	4.2,	4490
+169,	Bulas Reserva Tinto,	34,	8,	3,	2,	1,	3,	14.0,	3.9,	3975
+170,	Andreza Grande Reserva,	34,	8,	3,	1,	1,	3,	14.0,	4.1,	4191
+171,	Silk & Spice Red Blend,	34,	8,	3,	4,	2,	3,	13.5,	4.1,	2499
+172,	Peter Lehmann The Barossan Shiraz,	15,	9,	3,	1,	1,	3,	14.5,	3.9,	3599
+173,	Jacob's Creek Shiraz Cabernet,	15,	9,	1,	3,	1,	2,	13.5,	3.4,	2599
+174,	Penfolds Bin 28 Shiraz,	15,	9,	1,	4,	1,	3,	14.5,	4.0,	6299
+175,	Pepperbox Shiraz,	15,	9,	1,	4,	1,	3,	14.0,	3.8,	2799
+176,	Penfolds Koonunga Hill Shiraz Cabernet,	15,	9,	1,	3,	1,	3,	14.5,	3.6,	3099
+177,	Diamond Hill Cabernet Merlot,	5,	9,	1,	8,	1,	2,	14.0,	3.2,	2990
+178,	Grant Burge Barossa Ink Shiraz,	15,	9,	1,	3,	2,	2,	13.5,	4.1,	2399
+179,	McGuigan Black Label Cabernet Sauvignon,	5,	9,	3,	1,	1,	2,	13.0,	3.7,	2399
+180,	McGuigan Black Label Red,	15,	9,	1,	2,	2,	2,	13.0,	3.7,	2349
+181,	McGuigan Black Label Merlot,	11,	9,	2,	1,	1,	2,	13.0,	3.7,	2399
+182,	Peter Lehmann Stonewall Shiraz,	15,	9,	3,	1,	1,	3,	14.5,	4.2,	7799
+183,	19 Crimes Red Blend,	15,	9,	3,	1,	2,	3,	14.0,	4.0,	2499
+184,	Yellow Tail Merlot,	11,	9,	3,	1,	2,	2,	13.5,	3.3,	2398
+185,	Yellow Tail Cabernet Sauvignon,	5,	9,	3,	1,	1,	2,	13.5,	3.3,	2398
+186,	Nederburg The Winemasters Cabernet Sauvignon,	5,	10,	3,	1,	1,	3,	13.5,	3.5,	2499
+187,	Tall Horse Merlot,	11,	10,	1,	3,	2,	3,	13.5,	3.3,	2290
+188,	Nederburg The Motorcycle Marvel,	35,	10,	3,	6,	1,	3,	14.5,	3.9,	3599
+189,	Barista Black,	36,	10,	3,	1,	1,	2,	13.5,	4.0,	3998
+190,	Noble Hill Estate Reserve,	16,	10,	3,	1,	1,	3,	14.0,	4.0,	4697
+191,	GlenWood Vegneron's Selection Shiraz,	15,	10,	3,	4,	1,	3,	14.5,	3.7,	6484
+192,	Swartland Merlot,	11,	10,	3,	1,	1,	3,	14.0,	3.5,	3399
+193,	Babylon's Peak Pinotage	36,	10,	6,	1,	1,	3,	14.0,	3.8,	3990,
+194,	Nederburg Manor House Cabernet Sauvignon,	5,	10,	3,	1,	1,	3,	14.5,	3.6,	2999
+195,	Lomond Syrah,	15,	10,	3,	4,	1,	3,	14.0,	3.8,	3399
+196,	Alto Estate Rouge,	16,	10,	3,	1,	1,	3,	14.0,	3.8,	3299
+197,	Constantia Glen Five,	5,	10,	3,	1,	1,	3,	14.5,	4.3,	6667
+198,	Tall Horse Cabernet Sauvignon,	5,	10,	1,	3,	1,	2,	13.5,	3.3,	2290
+199,	Klein Constantia Estate Red,	5,	10,	3,	1,	1,	3,	14.5,	3.9,	6290
+200,	Barista Pinotage,	36,	10,	3,	6,	1,	2,	13.0,	4.1,	2999
